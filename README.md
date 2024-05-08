@@ -78,9 +78,9 @@ make
 . Larger stack sizes may require a higher number of operations to sort, impacting performance.
 ## 🚀 Next Project
 
-[push_swap](https://github.com/adhaka-afk/PUSH_SWAP)
+[Philosophers](https://github.com/adhaka-afk/Philosophers)
 
 ## ⏳ Previous Project
 
-[minitalk](https://github.com/adhaka-afk/MINI_TALK)
+[Fract-ol](https://github.com/adhaka-afk/FRACT-OL)
 
